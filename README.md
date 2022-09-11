@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
-- 👯 I’m looking to collaborate on **LOVEBIRDS**
+- 👯 I’m looking to collaborate on **Data structures and algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KRISHNA-DHARSANDIA/KRISHNA](https://github.com/KRISHNA-DHARSANDIA/KRISHNA)
 
