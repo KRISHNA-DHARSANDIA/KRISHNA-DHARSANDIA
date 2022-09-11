@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **KrishnaDharsandia09@gamil.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **JAY SHREE KRISHNA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
