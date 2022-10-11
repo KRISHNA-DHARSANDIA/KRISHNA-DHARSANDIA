@@ -3,7 +3,7 @@
 <h3 align="center">DCE STUDENT</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Web page](https://github.com/KRISHNA-DHARSANDIA/Web-page)
+- 🔭 I’m currently working on Game development
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
