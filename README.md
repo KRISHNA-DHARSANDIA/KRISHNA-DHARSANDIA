@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data structures and algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KRISHNA-DHARSANDIA/KRISHNA](https://github.com/KRISHNA-DHARSANDIA/KRISHNA)
+
 
 - 💬 Ask me about **HTML,CSS,C**
 
