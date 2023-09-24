@@ -3,32 +3,21 @@
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on Game development
+- 🔭 I’m currently working on resQ Crew
 
-- 🌱 I’m currently learning **Frameworks, courses etc.**
+- 🌱 I’m currently learning **Frameworks, Web3 etc.**
 
-- 👯 I’m looking to collaborate on **Data structures and algorithms**
+- 📫 How to reach me **krishnadharsandia@gamil.com**
 
+[![Linkedin Badge](https://img.shields.io/badge/-lets_connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishna-dharsandia-351904250/)](https://www.linkedin.com/in/krishna-dharsandia-351904250/)
+[![Gmail Badge](https://img.shields.io/badge/-mail_me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krishnadharsandia@gmail.com)](mailto:krishnadharsandia@gmail.com)<br>
 
-
-- 💬 Ask me about **HTML,CSS,C**
-
-- 📫 How to reach me **KrishnaDharsandia09@gamil.com**
-
-- ⚡ Fun fact **JAY SHREE KRISHNA**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/dharsandia krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dharsandia krishna" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_krishna_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_krishna_05" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/23 krishna dharsandia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="23 krishna dharsandia" height="30" width="40" /></a>
-</p>
+![](https://komarev.com/ghpvc/?username=Krishna)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-dharsandia&show_icons=true&locale=en&layout=compact" alt="krishna-dharsandia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-dharsandia&show_icons=true&locale=en" alt="krishna-dharsandia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-dharsandia&" alt="krishna-dharsandia" /></p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,jquery,html,css,python,nodejs,mongodb,netlify,nextjs,tailwind,ts,vercel,react,git,astro,bash,c,cs,discord,jquery,bash,bootstrap," />
+  </a>
+</p>
+<br>
