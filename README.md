@@ -12,8 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-lets_connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishna-dharsandia-351904250/)](https://www.linkedin.com/in/krishna-dharsandia-351904250/)
 [![Gmail Badge](https://img.shields.io/badge/-mail_me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krishnadharsandia@gmail.com)](mailto:krishnadharsandia@gmail.com)<br>
 
-![](https://komarev.com/ghpvc/?username=Krishna)
-
+<!-- [![](https://komarev.com/ghpvc/?username=Krishna)](url) -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
